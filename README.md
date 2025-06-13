@@ -42,6 +42,5 @@ The goal is to support business stakeholders with actionable insights by highlig
 
 ## 📬 Contact
 Created by **Ishant Kumar**  
-📧 [Your Email or LinkedIn]  
 💼 Business Intelligence | Data Analytics | Tableau | SQL
 
