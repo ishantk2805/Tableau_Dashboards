@@ -36,7 +36,7 @@ The goal is to support business stakeholders with actionable insights by highlig
 - Weekly trends and subcategory performance can guide promotional or pricing strategies
 
 ## 📎 Link to Dashboard
-👉 [View the Live Dashboard on Tableau Public](https://public.tableau.com/views/SalesDash_17448591059260/SalesDashboard)
+👉 [View the Live Dashboard on Tableau Public]([https://public.tableau.com/views/SalesDash_17448591059260/SalesDashboard](https://public.tableau.com/app/profile/ishant6802/vizzes))
 
 ---
 
